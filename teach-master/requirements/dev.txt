@@ -1,0 +1,13 @@
+autoflake
+black
+flake8
+ipykernel
+isort
+mypy
+pip-tools
+pycodestyle
+pydocstyle
+pytest
+setuptools
+wheel
+twine

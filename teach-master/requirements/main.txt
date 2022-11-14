@@ -1,0 +1,15 @@
+Flask
+Pillow
+PyYAML
+SQLAlchemy
+aiofiles
+aiohttp
+beautifulsoup4
+cython
+httpx
+lxml
+matplotlib
+numpy
+pandas
+python-dotenv
+requests
