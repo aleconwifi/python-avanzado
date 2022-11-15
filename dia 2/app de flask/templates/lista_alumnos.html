@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Alumnos</title>
+</head>
+
+<body>
+  <h2> {{ data.pagetitle }} </h2>
+  <ul>  
+      {% for item in data.nombres %}
+              <li> {{ item }} </li>
+      {% endfor %}
+  </ul>
+
+</body>
+
+</html>
