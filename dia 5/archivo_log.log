@@ -1,0 +1,10 @@
+[ERROR] | MainProcess - 08:01:49 -> Exception ocurred
+Traceback (most recent call last):
+  File "04_logging.py", line 14, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
+[ERROR] | MainProcess - 08:01:49 -> Exception ocurred
+Traceback (most recent call last):
+  File "04_logging.py", line 20, in <module>
+    c = d / b
+ZeroDivisionError: division by zero
